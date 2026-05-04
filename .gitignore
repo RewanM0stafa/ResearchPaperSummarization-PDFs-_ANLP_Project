@@ -1,0 +1,7 @@
+outputs/
+data/
+*.pt
+*.bin
+*.safetensors
+*.arrow
+.idea/
